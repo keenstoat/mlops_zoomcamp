@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# specific for this repo
+
+artifacts/
+mlflow.db
+mlruns/
+output/
+taxi_data_dir/
